@@ -1,0 +1,8 @@
+{
+	"ApiId" : "Oiplikao.PersonalKillfeed",
+	"Name": "Personal Killfeed",
+	"Description": "Makes the Killfeed only show kills that belong to you, your party, and suicides of everyone",
+	"Version": "1.0.0",
+	"Authors": ["Oiplikao"],
+	"LoadPriority": 2
+}
